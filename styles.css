@@ -1,3 +1,6 @@
+* {
+  scroll-behavior: smooth !important;
+}
 /* Navigation Bar */
 .navbar {
   padding: 10px;
@@ -60,8 +63,6 @@ hr {
   display: flex;
 }
 
-sec2-title {
-}
 /* Hackathons */
 
 /* Third Section Projects*/
